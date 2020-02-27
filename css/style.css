@@ -1,0 +1,26 @@
+body {
+    background-image: url('../images/music_tile.png');
+}
+
+.genre-container {
+    padding: 1rem;
+    min-height: 15rem;
+}
+
+.genre-tabs .active {
+    background-color: #007bff;
+}
+
+.genre-tabs .active>a {
+    color: white;
+}
+
+.wrapper {
+    background-color: white;
+    min-height: 100vh;
+    padding: 0;
+}
+
+#storeLogo {
+    max-height: 10rem;
+}
